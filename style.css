@@ -1,0 +1,26 @@
+body {
+    color:white;
+    background: black;
+    margin:0px;
+}
+
+header {
+    border: solid 1px orange;
+    padding: 20px;
+    font-size: 40px;
+    color: orange;
+}
+
+section{
+    background: orange;
+    padding-bottom:80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+    
+}
+
+div{
+    margin-right:50px
+    
+}
